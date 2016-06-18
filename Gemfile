@@ -19,3 +19,6 @@ gem 'middleman-sprockets', '~> 4.0.x'
 
 # Jquery
 gem "jquery-middleman"
+
+# Github Pages
+gem 'middleman-gh-pages'
