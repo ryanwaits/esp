@@ -92,6 +92,17 @@ h3 {
     width: 100px;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+}
+footer p {
+    font-size: 1.25em;
+    font-family: "Montserrat"; font-weight: 400;
+    letter-spacing: 1.5px;
+    color: rgba(81, 80, 81, 0.7);
+}
+
 @media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 667px) 
