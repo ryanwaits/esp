@@ -93,12 +93,10 @@ h3 {
 }
 
 footer {
-    position: fixed;
     bottom: 0;
-    padding: 2.5%;
 }
 footer p {
-    font-size: 1em;
+    font-size: 0.75em;
     font-family: "Montserrat"; font-weight: 400;
     letter-spacing: 1.5px;
     color: rgba(81, 80, 81, 0.7);
