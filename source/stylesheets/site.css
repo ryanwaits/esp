@@ -29,6 +29,14 @@ div.upcoming-events, div.past-events, div.get-in-touch {
     cursor: default;
     padding-left: 40px;
 }
+.logo h1 {
+    font-size: 2.75em;
+    font-family: "Montserrat"; font-weight: 400;
+    letter-spacing: 1.5px;
+    color: rgba(81, 80, 81, 1);
+    cursor: default;
+    padding-left: 40px;
+}
 #services {
     display: flex;
     margin: 10% auto;
